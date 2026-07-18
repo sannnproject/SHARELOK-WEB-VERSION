@@ -171,14 +171,3 @@ Lisensi
 Kontak
 
 - Untuk pertanyaan teknis atau diskusi arsitektur, buka issue di repository.
-
----
-
-Perubahan yang saya lakukan pada README.md:
-- Menyusun ulang dan memperluas dokumentasi berdasarkan stack dan penjelasan yang sudah ada di README lama.
-- Menambahkan badge profesional yang merujuk ke repository dan requirement stack (Node/Python/Vercel).
-- Menambahkan bagian detail: arsitektur eksekusi Sherlock, keamanan, konfigurasi env, dan rekomendasi rate limiting.
-
-Jika Anda mau saya bisa:
-- Menambahkan contoh environment file (.env.example) atau snippet konfigurasi yang persis sesuai kode di repo (mis. nama env var aktual) — minta saya untuk membaca file konfigurasi di repo dan saya akan menambahkan.
-- Menambahkan badge CI/coverage jika Anda menggunakan layanan tersebut (sebutkan layanan dan nama workflow).
