@@ -12,10 +12,6 @@ Deskripsi singkat
 
 Sherlock Web adalah antarmuka web modern yang berfungsi sebagai front-end dan wrapper untuk proyek Sherlock (https://github.com/sherlock-project/sherlock). Sherlock sendiri adalah tools OSINT untuk mencari keberadaan username pada berbagai platform. Proyek ini menggabungkan Next.js (frontend) dengan backend Python (FastAPI) yang mengeksekusi Sherlock sebagai subprocess sehingga pencarian berjalan non-blocking dan terisolasi dari proses web utama.
 
-Tujuan README ini
-
-README ini diperbarui agar lebih lengkap, terstruktur, dan profesional. Semua penjelasan hanya berdasarkan stack dan mekanika yang telah ada di kode: Next.js (App Router), Tailwind CSS, shadcn/ui pada frontend, serta FastAPI yang menjalankan Sherlock menggunakan asyncio.create_subprocess_exec pada backend.
-
 Teknologi & Stack
 
 - Frontend
